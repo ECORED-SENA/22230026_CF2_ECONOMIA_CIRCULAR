@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="970" height="603" viewBox="0 0 970 603">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Trazado_64881" data-name="Trazado 64881" d="M147.154,0l16.067,28.287-12.1,25.26a90.075,90.075,0,0,1,74.776,125.788l15.573,22.747,32.591.228A143.419,143.419,0,0,0,147.154,0Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="-1.049" y1="1.417" x2="-1.042" y2="1.417" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#df7f50"/>
+      <stop offset="0.158" stop-color="#da6d51"/>
+      <stop offset="0.361" stop-color="#d75f52"/>
+      <stop offset="0.605" stop-color="#d55652"/>
+      <stop offset="1" stop-color="#d55453"/>
+    </linearGradient>
+    <clipPath id="clip-path-2">
+      <path id="Trazado_64882" data-name="Trazado 64882" d="M44.1,39.866A143.513,143.513,0,0,0,17.31,211.7l16.5-28.121,27.946-2.147A90.056,90.056,0,0,1,133.292,53.772L145.2,28.917,129.133.637A142.173,142.173,0,0,0,44.1,39.866" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="0.003" y1="1.355" x2="0.01" y2="1.355" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#df7f50"/>
+      <stop offset="1" stop-color="#df7f50"/>
+    </linearGradient>
+    <clipPath id="clip-path-3">
+      <path id="Trazado_64883" data-name="Trazado 64883" d="M141.489,233.347A89.96,89.96,0,0,1,70.9,196.755l-27.535,2.118L26.906,226.932A144.776,144.776,0,0,0,39.92,242.539a143.338,143.338,0,0,0,202.672,4.176A144.216,144.216,0,0,0,265.6,218.236L233,218l-15.847-23.141a90.06,90.06,0,0,1-75.666,38.485" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-3" x1="-0.113" y1="0.992" x2="-0.109" y2="0.992" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#df7f50"/>
+      <stop offset="0.05" stop-color="#e0864a"/>
+      <stop offset="0.219" stop-color="#e39b3c"/>
+      <stop offset="0.409" stop-color="#e5a931"/>
+      <stop offset="0.637" stop-color="#e6b22b"/>
+      <stop offset="1" stop-color="#e7b52a"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_25687" data-name="Grupo 25687" transform="translate(-215 -10272.5)">
+    <text id="El_método_Lean_starup" data-name="El método Lean starup" transform="translate(215 10272.5)" fill="#e4986f" font-size="20" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="378.413" y="19">El método Lean starup</tspan></text>
+    <g id="Grupo_25668" data-name="Grupo 25668" transform="translate(557 10446)">
+      <g id="Grupo_25663" data-name="Grupo 25663">
+        <g id="Grupo_25662" data-name="Grupo 25662" clip-path="url(#clip-path)">
+          <rect id="Rectángulo_25958" data-name="Rectángulo 25958" width="140.292" height="202.31" transform="translate(147.154 0)" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <g id="Grupo_25665" data-name="Grupo 25665">
+        <g id="Grupo_25664" data-name="Grupo 25664" clip-path="url(#clip-path-2)">
+          <rect id="Rectángulo_25959" data-name="Rectángulo 25959" width="145.69" height="211.061" transform="translate(-0.49 0.637)" fill="url(#linear-gradient-2)"/>
+        </g>
+      </g>
+      <g id="Grupo_25667" data-name="Grupo 25667">
+        <g id="Grupo_25666" data-name="Grupo 25666" clip-path="url(#clip-path-3)">
+          <rect id="Rectángulo_25960" data-name="Rectángulo 25960" width="238.698" height="92.529" transform="translate(26.906 194.862)" fill="url(#linear-gradient-3)"/>
+        </g>
+      </g>
+    </g>
+    <rect id="Rectángulo_25961" data-name="Rectángulo 25961" width="176" height="88" transform="translate(510 10521)" fill="#fff"/>
+    <rect id="Rectángulo_25962" data-name="Rectángulo 25962" width="133" height="84" transform="translate(756 10525)" fill="#fff"/>
+    <text id="CONSTRUIR" transform="translate(534 10528.5)" fill="#1e3c53" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">CONSTRUIR</tspan></text>
+    <text id="ACELERA_ESTE_CICLO_DE_ALIMENTACIÓN" data-name="ACELERA ESTE CICLO DE ALIMENTACIÓN" transform="translate(535 10344.5)" fill="#1e3c53" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">ACELERA ESTE CICLO DE ALIMENTACIÓN</tspan></text>
+    <text id="MEDIR" transform="translate(783 10531.5)" fill="#1e3c53" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">MEDIR</tspan></text>
+    <text id="Ver_como_responden_los_clientes" data-name="Ver como responden los clientes" transform="translate(732 10558.5)" fill="#1e3c53" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Ver como </tspan><tspan x="0" y="41">responden los </tspan></text>
+    <text id="Experimentar_para_acercar_los_números_al_plan" data-name="Experimentar para acercar los números al plan" transform="translate(844 10409.5)" fill="#1e3c53" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Experimentar para </tspan><tspan x="0" y="41">acercar los números al </tspan></text>
+    <text id="Compruébalo_por_ti_mismo" data-name="Compruébalo por ti mismo" transform="translate(951 10496.5)" fill="#1e3c53" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="10.09" y="17">Compruébalo </tspan><tspan x="15.192" y="41">por ti mismo</tspan></text>
+    <text id="Convierte_las_ideas_en_productos" data-name="Convierte las ideas en productos" transform="translate(504 10558.5)" fill="#1e3c53" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Convierte las ideas </tspan><tspan x="0" y="41">en productos</tspan></text>
+    <text id="Haz_pruebas_split_Tests_para_conocer_la_causa-efecto" data-name="Haz pruebas (split Tests) para conocer la causa-efecto" transform="translate(915 10613.5)" fill="#1e3c53" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="17.563" y="17">Haz pruebas </tspan><tspan x="1.101" y="41">(split Tests) para </tspan><tspan x="25.543" y="65">conocer la </tspan><tspan x="13.766" y="89">causa-efecto</tspan></text>
+    <text id="Zoom_in_Zoom_out_Segmentos_de_clientes_Necesidades_de_clientes_Plataformas_Arquitectura_de_negocio_Captura_de_valor_Motor_de_crecimiento_Canal" data-name="Zoom in 
+Zoom out
+Segmentos de clientes
+Necesidades de clientes
+Plataformas
+Arquitectura de negocio
+Captura de valor
+Motor de crecimiento
+Canal" transform="translate(881 10715.5)" fill="#1e3c53" font-size="12" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="12">Zoom in </tspan><tspan x="0" y="30">Zoom out</tspan><tspan x="0" y="48">Segmentos de clientes</tspan><tspan x="0" y="66">Necesidades de clientes</tspan><tspan x="0" y="84">Plataformas</tspan><tspan x="0" y="102">Arquitectura de negocio</tspan><tspan x="0" y="120">Captura de valor</tspan><tspan x="0" y="138">Motor de crecimiento</tspan><tspan x="0" y="156">Canal</tspan></text>
+    <text id="_Qué_actividades_generan_valor_Cuáles_son_residuos_" data-name="¿Qué actividades generan valor?
+¿Cuáles son residuos?" transform="translate(422 10785.5)" fill="#1e3c53" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="3.032" y="17">¿Qué actividades generan valor?</tspan><tspan x="48.111" y="41">¿Cuáles son residuos?</tspan></text>
+    <text id="Los_5_porqués_Averigua_y_corrige_las_causas_de_fondo" data-name="Los 5 porqués
+Averigua y corrige las causas de fondo" transform="translate(295 10688.5)" fill="#1e3c53" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="44.625" y="17">Los 5 porqués</tspan><tspan x="11.235" y="41">Averigua y corrige las </tspan><tspan x="33.862" y="65">causas de fondo</tspan></text>
+    <text id="Simula_tu_producto_con_personas" data-name="Simula tu producto con personas" transform="translate(295 10606.5)" fill="#1e3c53" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="1.486" y="17">Simula tu producto </tspan><tspan x="27.221" y="41">con personas</tspan></text>
+    <text id="Empieza_por_un_solo_cliente" data-name="Empieza por un solo cliente" transform="translate(311 10524.5)" fill="#1e3c53" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="3.323" y="17">Empieza por un </tspan><tspan x="19.35" y="41">solo cliente</tspan></text>
+    <text id="Producto_Mínimo_Viable_M.V.P" data-name="Producto Mínimo Viable M.V.P" transform="translate(387 10403.5)" fill="#1e3c53" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="2.853" y="17">Producto Mínimo </tspan><tspan x="23.529" y="41">Viable M.V.P</tspan></text>
+    <rect id="Rectángulo_25963" data-name="Rectángulo 25963" width="162" height="55" transform="translate(621 10688)" fill="#fff"/>
+    <text id="Pivota_o_persevera" data-name="Pivota o persevera" transform="translate(632 10715.5)" fill="#1e3c53" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Pivota o persevera</tspan></text>
+    <text id="Pivotes" transform="translate(805 10793.5)" fill="#1e3c53" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Pivotes</tspan></text>
+    <text id="APRENDER" transform="translate(653 10688.5)" fill="#1e3c53" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">APRENDER</tspan></text>
+  </g>
+</svg>
