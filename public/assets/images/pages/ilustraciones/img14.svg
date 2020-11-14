@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="726" height="408.5" viewBox="0 0 726 408.5">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="970" height="528" viewBox="0 0 970 528">
   <defs>
     <clipPath id="clip-path">
       <rect id="Rectángulo_25934" data-name="Rectángulo 25934" width="85.694" height="115.673" fill="none"/>
@@ -13,7 +13,9 @@
       <rect id="Rectángulo_25936-2" data-name="Rectángulo 25936" width="77.604" height="128.84" fill="none"/>
     </clipPath>
   </defs>
-  <g id="Grupo_25674" data-name="Grupo 25674" transform="translate(-344 -15806)">
+  <g id="Grupo_25689" data-name="Grupo 25689" transform="translate(-215 -15752.5)">
+    <text id="Fuente:_Adaptado_de_Ellen_MacArthur_Foundation_2019_." data-name="Fuente: Adaptado de Ellen MacArthur Foundation (2019)." transform="translate(215 16250.5)" fill="#00223d" font-size="14" font-family="CerebriSans-Regular, Cerebri Sans"><tspan x="304.61" y="14">Fuente: Adaptado de Ellen MacArthur Foundation (2019).</tspan></text>
+    <text id="Pasando_de_visión_a_realidad" data-name="Pasando de visión a realidad" transform="translate(215 15752.5)" fill="#d45453" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="362.313" y="17">Pasando de visión a realidad</tspan></text>
     <g id="Grupo_25629" data-name="Grupo 25629" transform="translate(657.36 16098.827)">
       <path id="Trazado_64794" data-name="Trazado 64794" d="M40.979,25.335l1.292,79.745-13.386-.461,6.753-79.243Z" transform="translate(10.286 9.022)" fill="#44a06b"/>
       <g id="Grupo_25628" data-name="Grupo 25628" transform="translate(0 0)">
