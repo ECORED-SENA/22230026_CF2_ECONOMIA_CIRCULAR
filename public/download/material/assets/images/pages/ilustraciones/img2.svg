@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1053" height="503" viewBox="0 0 1053 503">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e08051"/>
+      <stop offset="0.05" stop-color="#d57858"/>
+      <stop offset="0.18" stop-color="#bb666a"/>
+      <stop offset="0.32" stop-color="#a65778"/>
+      <stop offset="0.48" stop-color="#984d82"/>
+      <stop offset="0.68" stop-color="#904787"/>
+      <stop offset="0.99" stop-color="#8d4589"/>
+      <stop offset="1" stop-color="#8d4589"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e08051"/>
+      <stop offset="0.08" stop-color="#dc775f"/>
+      <stop offset="0.24" stop-color="#d76a73"/>
+      <stop offset="0.41" stop-color="#d46181"/>
+      <stop offset="0.63" stop-color="#d25c8a"/>
+      <stop offset="0.99" stop-color="#d15a8c"/>
+      <stop offset="1" stop-color="#d15a8c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e08051"/>
+      <stop offset="0.04" stop-color="#e1874c"/>
+      <stop offset="0.21" stop-color="#e49b3d"/>
+      <stop offset="0.41" stop-color="#e6aa33"/>
+      <stop offset="0.63" stop-color="#e7b22d"/>
+      <stop offset="1" stop-color="#e7b52b"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e08051"/>
+      <stop offset="0.16" stop-color="#dc6e52"/>
+      <stop offset="0.36" stop-color="#d86052"/>
+      <stop offset="0.6" stop-color="#d65853"/>
+      <stop offset="1" stop-color="#d55553"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_25467" data-name="Rectángulo 25467" width="223.094" height="41.421" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-5" y1="0.499" y2="0.499" xlink:href="#linear-gradient-4"/>
+    <linearGradient id="linear-gradient-7" x2="0.999" xlink:href="#linear-gradient-4"/>
+    <clipPath id="clip-path-3">
+      <rect id="Rectángulo_25467-3" data-name="Rectángulo 25467" width="325.574" height="66.5" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect id="Rectángulo_25467-4" data-name="Rectángulo 25467" width="314.574" height="66.5" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-9" x1="0" y1="0.499" y2="0.499" xlink:href="#linear-gradient-3"/>
+    <linearGradient id="linear-gradient-10" x1="0" y1="0.499" y2="0.499" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-11" x1="0" y1="0.499" x2="1" y2="0.499" xlink:href="#linear-gradient-2"/>
+    <clipPath id="clip-path-5">
+      <path id="Trazado_60902" data-name="Trazado 60902" d="M70.652,0V17.89H0V47.2H70.652V65.092L116.5,32.546Z" fill="#8f4788"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_25698" data-name="Grupo 25698" transform="translate(-193 -1901.5)">
+    <g id="Grupo_25674" data-name="Grupo 25674">
+      <text id="_De_dónde_surge_la_Estrategia_Nacional_de_Economía_Circular_ENEC_" data-name="¿De dónde surge la Estrategia Nacional de Economía Circular (ENEC)?" transform="translate(215 1901.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="183.456" y="17">¿De dónde surge la Estrategia Nacional de Economía Circular (ENEC)?</tspan></text>
+      <g id="grafico1-cp2" transform="translate(446.78 1941.13)">
+        <path id="Trazado_60865" data-name="Trazado 60865" d="M408.023,211,60.992,105.648,0,0,462.928,115.914Z" fill="#48bbbc"/>
+        <path id="Trazado_60866" data-name="Trazado 60866" d="M408.023,211,60.992,105.648,0,0,462.928,115.914Z" opacity="0.3"/>
+        <path id="Trazado_60867" data-name="Trazado 60867" d="M287.192,232.943,73.66,127.59l54.9,95.086,82.27,142.517Z" transform="translate(54.081 93.677)" fill="#f9b23f"/>
+        <path id="Trazado_60868" data-name="Trazado 60868" d="M287.192,232.943,73.66,127.59l54.9,95.086,82.27,142.517Z" transform="translate(54.081 93.677)" opacity="0.2"/>
+        <path id="Trazado_60869" data-name="Trazado 60869" d="M93.495,161.926,318.872,267.279l54.9-95.086L38.59,66.84Z" transform="translate(28.333 49.074)" fill="#e83d56"/>
+        <path id="Trazado_60870" data-name="Trazado 60870" d="M93.495,161.926,318.872,267.279l54.9-95.086L38.59,66.84Z" transform="translate(28.333 49.074)" opacity="0.3"/>
+        <path id="Trazado_60871" data-name="Trazado 60871" d="M128.565,222.676,73.66,127.59H348.028l-54.9,95.086Z" transform="translate(54.081 93.677)" fill="url(#linear-gradient)"/>
+        <path id="Trazado_60872" data-name="Trazado 60872" d="M261.436,188.34,185.08,320.59,108.74,188.34Z" transform="translate(79.837 138.279)" fill="url(#linear-gradient-2)"/>
+        <path id="Trazado_60873" data-name="Trazado 60873" d="M434.595,66.84l-54.9,95.086H93.495L38.59,66.84Z" transform="translate(28.333 49.074)" fill="url(#linear-gradient-3)"/>
+        <path id="Trazado_60874" data-name="Trazado 60874" d="M60.992,105.648,0,0H529.85L468.841,105.648Z" fill="url(#linear-gradient-4)"/>
+      </g>
+      <text id="Objetivos_de_desarrollo_sostenible_ODS_." data-name="Objetivos de desarrollo sostenible (ODS)." transform="translate(525 1979.5)" fill="#f7f7f7" font-size="18" font-family="CerebriSans-Regular, Cerebri Sans"><tspan x="0" y="17">Objetivos de desarrollo sostenible (ODS).</tspan></text>
+      <text id="Plan_Nacional_de_Desarrollo_CONPES." data-name="Plan Nacional de Desarrollo CONPES." transform="translate(578 2089.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Regular, Cerebri Sans"><tspan x="18.378" y="17">Plan Nacional de Desarrollo </tspan><tspan x="91.138" y="41">CONPES.</tspan></text>
+      <text id="Economía_circular_Noviembre_2018." data-name="Economía circular
+Noviembre 2018." transform="translate(618 2182.5)" fill="#f7f7f7" font-size="18" font-family="CerebriSans-Regular, Cerebri Sans"><tspan x="10.198" y="17">Economía circular</tspan><tspan x="12.281" y="41">Noviembre 2018.</tspan></text>
+      <text id="Producción_y_Consumo_Sostenible." data-name="Producción y
+Consumo
+Sostenible." transform="translate(629 2263.5)" fill="#f7f7f7" font-size="17" font-family="CerebriSans-Regular, Cerebri Sans"><tspan x="31.76" y="16">Producción y</tspan><tspan x="45.609" y="40">Consumo</tspan><tspan x="38.811" y="64">Sostenible.</tspan></text>
+      <g id="Grupo_24901" data-name="Grupo 24901" transform="translate(236 1978)">
+        <g id="Grupo_24900" data-name="Grupo 24900" transform="translate(0 0)" clip-path="url(#clip-path)">
+          <path id="Trazado_60875" data-name="Trazado 60875" d="M36.22,0H223.094V41.421H36.22C16.216,41.421,0,32.148,0,20.71S16.216,0,36.22,0" transform="translate(0 0)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Grupo_24902" data-name="Grupo 24902" transform="translate(236 2076)">
+        <g id="Grupo_24900-2" data-name="Grupo 24900" transform="translate(0 0)" clip-path="url(#clip-path)">
+          <path id="Trazado_60875-2" data-name="Trazado 60875" d="M36.22,0H223.094V41.421H36.22C16.216,41.421,0,32.148,0,20.71S16.216,0,36.22,0" transform="translate(0 0)" fill="#fff"/>
+        </g>
+      </g>
+      <text id="Perspectiva_global." data-name="Perspectiva global." transform="translate(267 1986.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Regular, Cerebri Sans"><tspan x="0" y="17">Perspectiva global.</tspan></text>
+      <g id="grafico1_1-cp2" transform="translate(193.01 1973)">
+        <path id="Trazado_60876" data-name="Trazado 60876" d="M95.13,77.7v11H66.42A20.71,20.71,0,0,1,45.71,67.94h0A20.72,20.72,0,0,1,66.42,47.23H95.13v11a9.76,9.76,0,0,0,0,19.51Z" transform="translate(-40.71 -42.23)" opacity="0.1"/>
+        <path id="Trazado_60877" data-name="Trazado 60877" d="M83.66,67.94a9.75,9.75,0,0,0,9.75,9.76v16h-27a25.71,25.71,0,0,1,0-51.42h27v16a9.75,9.75,0,0,0-9.75,9.66Z" transform="translate(-40.71 -42.23)" fill="url(#linear-gradient-5)"/>
+        <path id="Trazado_60878" data-name="Trazado 60878" d="M93.41,93.65H74.85L41.79,60.59A25.74,25.74,0,0,1,52.6,46.29L93.41,87.1Z" transform="translate(-40.71 -42.23)" fill="url(#linear-gradient-4)"/>
+        <path id="Trazado_60879" data-name="Trazado 60879" d="M85.85,74.1,56.14,44.39a25.58,25.58,0,0,1,10.28-2.16h.12L86,61.66a9.74,9.74,0,0,0-.11,12.44Z" transform="translate(-40.71 -42.23)" fill="url(#linear-gradient-7)"/>
+        <path id="Trazado_60880" data-name="Trazado 60880" d="M93.41,81.66,87.25,75.5a9.71,9.71,0,0,0,6.16,2.2Z" transform="translate(-40.71 -42.23)" fill="url(#linear-gradient-4)"/>
+        <path id="Trazado_60881" data-name="Trazado 60881" d="M52.79,67.37c0,3.34,2.34,6.42,6,7.91a11.31,11.31,0,0,0,9.34,4.47c5.93,0,10.76-4,10.76-8.85a8.18,8.18,0,0,0-3.22-6.32l1.2-4a.7.7,0,0,0-.26-.76.67.67,0,0,0-.79,0l-3.47,2.46a11.53,11.53,0,0,0-8.75-3.72,13,13,0,0,0-3.74.54l-4-2.81a.71.71,0,0,0-.39-.12.72.72,0,0,0-.4.12.7.7,0,0,0-.26.76l1.2,4A8.17,8.17,0,0,0,52.79,67.37Zm6.9,6.87q-.18-.3-.33-.6c0-.09-.09-.18-.13-.27s-.14-.33-.2-.5-.07-.21-.1-.32-.08-.35-.12-.52,0-.2-.05-.3a5.69,5.69,0,0,1-.07-.83c0-4.12,4.22-7.47,9.4-7.47a11.35,11.35,0,0,1,3.63.58.78.78,0,0,0,.22,0h.13a.82.82,0,0,0,.26-.1L75,62.06l-.77,2.58a.66.66,0,0,0,.25.75,6.92,6.92,0,0,1,3,5.51c0,4.12-4.22,7.48-9.39,7.48a9.86,9.86,0,0,1-8.4-4.14Zm-5.53-6.87a6.89,6.89,0,0,1,3.05-5.5.66.66,0,0,0,.25-.75l-.77-2.59,2.62,1.86a.66.66,0,0,0,.61.09,11.37,11.37,0,0,1,3.64-.58,10.65,10.65,0,0,1,6.83,2.36h-.17q-.36-.06-.72-.09h-.34c-.36,0-.71-.05-1.07-.05-5.94,0-10.77,4-10.77,8.85A7.6,7.6,0,0,0,57.41,72a2.74,2.74,0,0,0,.05.28,6.351,6.351,0,0,0,.19.78q0,.09,0,.18a7.1,7.1,0,0,1-3.49-5.87Z" transform="translate(-40.71 -42.23)" fill="#fff"/>
+      </g>
+      <text id="Perspectiva_nacional." data-name="Perspectiva nacional." transform="translate(267 2082.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Regular, Cerebri Sans"><tspan x="0" y="17">Perspectiva nacional.</tspan></text>
+      <g id="Grupo_24903" data-name="Grupo 24903" transform="translate(236 2169)">
+        <g id="Grupo_24900-3" data-name="Grupo 24900" transform="translate(0 0)" clip-path="url(#clip-path-3)">
+          <path id="Trazado_60875-3" data-name="Trazado 60875" d="M52.858,0H325.574V66.5H52.858C23.665,66.5,0,51.612,0,33.249S23.665,0,52.858,0" transform="translate(0 0.001)" fill="#fff"/>
+        </g>
+      </g>
+      <text id="Perspectivas_de_sistemas_y_modelos_de_negocio." data-name="Perspectivas de sistemas y modelos de negocio." transform="translate(267 2178.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Regular, Cerebri Sans"><tspan x="0" y="17">Perspectivas de sistemas </tspan><tspan x="0" y="41">y modelos de negocio.</tspan></text>
+      <g id="Grupo_24904" data-name="Grupo 24904" transform="translate(247 2292)">
+        <g id="Grupo_24900-4" data-name="Grupo 24900" transform="translate(0 0)" clip-path="url(#clip-path-4)">
+          <path id="Trazado_60875-4" data-name="Trazado 60875" d="M51.072,0h263.5V66.5H51.072C22.865,66.5,0,51.612,0,33.249S22.865,0,51.072,0" transform="translate(0 0.001)" fill="#fff"/>
+        </g>
+      </g>
+      <text id="Perspectivas_de_empresas_unidades_productivas_consumidores." data-name="Perspectivas de empresas, unidades productivas, consumidores." transform="translate(267 2301.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Regular, Cerebri Sans"><tspan x="0" y="17">Perspectivas de empresas, unidades </tspan><tspan x="0" y="41">productivas, consumidores.</tspan></text>
+      <g id="grafico1_2-cp2" transform="translate(193.01 2075)">
+        <path id="Trazado_60882" data-name="Trazado 60882" d="M95.13,77.7v11H66.42A20.71,20.71,0,0,1,45.71,67.94h0A20.72,20.72,0,0,1,66.42,47.23H95.13v11a9.76,9.76,0,0,0,0,19.51Z" transform="translate(-40.71 -42.23)" opacity="0.1"/>
+        <path id="Trazado_60883" data-name="Trazado 60883" d="M83.66,67.94a9.75,9.75,0,0,0,9.75,9.76v16h-27a25.71,25.71,0,0,1,0-51.42h27v16a9.75,9.75,0,0,0-9.75,9.66Z" transform="translate(-40.71 -42.23)" fill="url(#linear-gradient-9)"/>
+        <g id="Grupo_24905" data-name="Grupo 24905" opacity="0.2">
+          <path id="Trazado_60884" data-name="Trazado 60884" d="M93.41,93.65H74.85L41.79,60.59A25.74,25.74,0,0,1,52.6,46.29L93.41,87.1Z" transform="translate(-40.71 -42.23)" fill="#fff"/>
+          <path id="Trazado_60885" data-name="Trazado 60885" d="M85.85,74.1,56.14,44.39a25.58,25.58,0,0,1,10.28-2.16h.12L86,61.66a9.74,9.74,0,0,0-.11,12.44Z" transform="translate(-40.71 -42.23)" fill="#fff"/>
+          <path id="Trazado_60886" data-name="Trazado 60886" d="M93.41,81.66,87.25,75.5a9.71,9.71,0,0,0,6.16,2.2Z" transform="translate(-40.71 -42.23)" fill="#fff"/>
+        </g>
+        <path id="Trazado_60887" data-name="Trazado 60887" d="M77.52,79.21a15.63,15.63,0,0,0-4.25-14.42,16.119,16.119,0,0,0-1.83-1.57V55.58a.69.69,0,0,0-.69-.69H67a.7.7,0,0,0-.6.34l-3,5.24a5.93,5.93,0,0,0-5.05,5.06l-5.24,3a.68.68,0,0,0-.34.59V73a.67.67,0,0,0,.68.68H61a15.13,15.13,0,0,0,1.57,1.84A15.64,15.64,0,0,0,77,79.73.66.66,0,0,0,77.52,79.21ZM54.05,69.55l4.18-2.42a4.71,4.71,0,0,0,.09.52,11.609,11.609,0,0,0,.3,1.16,2.81,2.81,0,0,0,.1.31c.09.28.18.57.28.84l.12.29c.12.29.24.57.37.85a2,2,0,0,1,.1.21c.16.31.32.62.5.92H54.05ZM70,62.3l-.93-.5-.19-.09c-.29-.14-.58-.26-.88-.38l-.27-.11c-.28-.11-.57-.2-.85-.29l-.3-.1c-.38-.11-.77-.21-1.16-.3l-.53-.08,2.43-4.19h2.73v6.07Zm6.25,16.18a14.068,14.068,0,0,1-14.34-6,13.82,13.82,0,0,1-1.38-2.45L60.49,70c-.15-.35-.28-.7-.4-1l-.1-.31c-.12-.41-.24-.82-.33-1.25,0-.21-.07-.43-.09-.65v-.07a4,4,0,0,1,0-.6,4.58,4.58,0,0,1,4.25-4.25h.67a4.619,4.619,0,0,1,.65.08c.42.09.84.21,1.25.33l.31.11a10,10,0,0,1,1,.39l.16.06a15.2,15.2,0,0,1,2.45,1.38,14.31,14.31,0,0,1,5.91,14.34Z" transform="translate(-40.71 -42.23)" fill="#fff"/>
+        <path id="Trazado_60888" data-name="Trazado 60888" d="M71.7,73.91a4.33,4.33,0,1,0-6.018-.1,4.33,4.33,0,0,0,6.018.1Zm-1-1a3,3,0,1,1,0-4.18,2.92,2.92,0,0,1,.03,4.21Z" transform="translate(-40.71 -42.23)" fill="#fff"/>
+      </g>
+      <g id="grafico1_3-cp2" transform="translate(193.01 2176)">
+        <path id="Trazado_60889" data-name="Trazado 60889" d="M95.13,77.7v11H66.42A20.71,20.71,0,0,1,45.71,67.94h0A20.72,20.72,0,0,1,66.42,47.23H95.13v11a9.76,9.76,0,0,0,0,19.51Z" transform="translate(-40.71 -42.23)" opacity="0.1"/>
+        <path id="Trazado_60890" data-name="Trazado 60890" d="M83.66,67.94a9.75,9.75,0,0,0,9.75,9.76v16h-27a25.71,25.71,0,0,1,0-51.42h27v16a9.75,9.75,0,0,0-9.75,9.66Z" transform="translate(-40.71 -42.23)" fill="url(#linear-gradient-10)"/>
+        <g id="Grupo_24906" data-name="Grupo 24906" opacity="0.1">
+          <path id="Trazado_60891" data-name="Trazado 60891" d="M93.41,93.65H74.85L41.79,60.59A25.74,25.74,0,0,1,52.6,46.29L93.41,87.1Z" transform="translate(-40.71 -42.23)" fill="#fff"/>
+          <path id="Trazado_60892" data-name="Trazado 60892" d="M85.85,74.1,56.14,44.39a25.58,25.58,0,0,1,10.28-2.16h.12L86,61.66a9.74,9.74,0,0,0-.11,12.44Z" transform="translate(-40.71 -42.23)" fill="#fff"/>
+          <path id="Trazado_60893" data-name="Trazado 60893" d="M93.41,81.66,87.25,75.5a9.71,9.71,0,0,0,6.16,2.2Z" transform="translate(-40.71 -42.23)" fill="#fff"/>
+        </g>
+        <path id="Trazado_60894" data-name="Trazado 60894" d="M81.31,58.19H54.58V77.33a.69.69,0,0,1-1.37,0V57.5a.69.69,0,0,1,.68-.68H81.31a.69.69,0,0,1,0,1.37Z" transform="translate(-40.71 -42.23)" fill="#fff"/>
+        <path id="Trazado_60895" data-name="Trazado 60895" d="M77.82,77.33a.36.36,0,0,1,0-.11l-3.2-1.63a1.74,1.74,0,0,1-2.74-1.42,1.68,1.68,0,0,1,.28-.94L69.5,68.76h-.23a1.71,1.71,0,0,1-1.1-.4l-4,2.59a1.74,1.74,0,0,1-3.48,0,1.79,1.79,0,0,1,.31-1l-3-5.7h0a1.76,1.76,0,1,1,1.34-.64l2.91,5.61a2.3,2.3,0,0,1,.26,0,1.75,1.75,0,0,1,1.19.48l3.87-2.55v-.11A1.74,1.74,0,1,1,71,67a1.67,1.67,0,0,1-.33,1l2.62,4.41a1.66,1.66,0,0,1,.32,0,1.74,1.74,0,0,1,1.74,1.74,2.423,2.423,0,0,1,0,.25L78.46,76a1.72,1.72,0,0,1,1.11-.41,1.75,1.75,0,1,1-1.75,1.75Z" transform="translate(-40.71 -42.23)" fill="#fff"/>
+      </g>
+      <g id="grafico1_4-cp2" transform="translate(193.01 2298)">
+        <path id="Trazado_60896" data-name="Trazado 60896" d="M95.13,77.7v11H66.42A20.71,20.71,0,0,1,45.71,67.94h0A20.72,20.72,0,0,1,66.42,47.23H95.13v11a9.76,9.76,0,0,0,0,19.51Z" transform="translate(-40.71 -42.23)" opacity="0.1"/>
+        <path id="Trazado_60897" data-name="Trazado 60897" d="M83.66,67.94a9.75,9.75,0,0,0,9.75,9.76v16h-27a25.71,25.71,0,0,1,0-51.42h27v16a9.75,9.75,0,0,0-9.75,9.66Z" transform="translate(-40.71 -42.23)" fill="url(#linear-gradient-11)"/>
+        <g id="Grupo_24907" data-name="Grupo 24907" opacity="0.1">
+          <path id="Trazado_60898" data-name="Trazado 60898" d="M93.41,93.65H74.85L41.79,60.59A25.74,25.74,0,0,1,52.6,46.29L93.41,87.1Z" transform="translate(-40.71 -42.23)" fill="#fff"/>
+          <path id="Trazado_60899" data-name="Trazado 60899" d="M85.85,74.1,56.14,44.39a25.58,25.58,0,0,1,10.28-2.16h.12L86,61.66a9.74,9.74,0,0,0-.11,12.44Z" transform="translate(-40.71 -42.23)" fill="#fff"/>
+          <path id="Trazado_60900" data-name="Trazado 60900" d="M93.41,81.66,87.25,75.5a9.71,9.71,0,0,0,6.16,2.2Z" transform="translate(-40.71 -42.23)" fill="#fff"/>
+        </g>
+        <path id="Trazado_60901" data-name="Trazado 60901" d="M79.77,68.09a12.64,12.64,0,0,0-3-8.2h0l-.44-.47-.17-.16-.43-.41-.48-.44L74.71,58c-.14-.11-.28-.22-.43-.32s-.52-.34-.79-.5L73.23,57A12.61,12.61,0,0,0,60.9,57l-.27.16a9.209,9.209,0,0,0-.78.49c-.15.1-.29.21-.43.32s-.37.28-.54.43-.33.29-.49.44-.29.27-.42.41l-.18.16-.44.47h0a12.67,12.67,0,0,0,0,16.4h0l.44.47L58,77c.13.13.27.27.42.4l.49.45.53.42.44.32a9.211,9.211,0,0,0,.78.49l.27.16a12.61,12.61,0,0,0,12.33,0L73.5,79a9.21,9.21,0,0,0,.78-.49c.15-.1.29-.21.43-.32s.37-.28.54-.43.33-.29.49-.44l.43-.41.17-.16.44-.47h0a12.64,12.64,0,0,0,2.99-8.19Zm-4.91-8.21a11.25,11.25,0,0,1-2.54,1.82,12.59,12.59,0,0,0-2.09-4.49h.2a11.12,11.12,0,0,1,2,.85h0c.3.16.59.34.88.53l.13.09c.24.17.48.35.71.54s.16.14.24.21.34.32.47.45ZM63.7,57.26h.2a12.59,12.59,0,0,0-2.09,4.49,11.25,11.25,0,0,1-2.54-1.82,5.141,5.141,0,0,1,.42-.38l.23-.2q.34-.28.72-.54l.12-.09c.29-.19.58-.37.89-.54h0a11.12,11.12,0,0,1,2-.85Zm-4.43,19a11.25,11.25,0,0,1,2.54-1.82A12.59,12.59,0,0,0,63.9,79h-.2a10.92,10.92,0,0,1-2-.85h0c-.31-.17-.6-.35-.89-.54l-.12-.09q-.37-.26-.72-.54l-.23-.2a5.14,5.14,0,0,1-.47-.48Zm11.16,2.62h-.2a12.59,12.59,0,0,0,2.09-4.49,11.25,11.25,0,0,1,2.54,1.82c-.13.13-.27.25-.41.37s-.16.15-.24.21-.47.37-.72.54l-.12.09c-.29.19-.58.37-.89.54h0a11.12,11.12,0,0,1-2,.85Zm-4.05.36c-1.3-.51-2.57-2.44-3.32-5.36a11.23,11.23,0,0,1,3.32-.7Zm-3.61-6.69a25.72,25.72,0,0,1-.38-3.81h4v3.07a12.68,12.68,0,0,0-3.62.78Zm-.38-5.19a25.72,25.72,0,0,1,.38-3.81,12.68,12.68,0,0,0,3.61.74V67.4Zm.67-5.14c.75-2.92,2-4.85,3.32-5.36V63a11.23,11.23,0,0,1-3.32-.74Zm4.69-5.36c1.3.51,2.57,2.44,3.32,5.36a11.23,11.23,0,0,1-3.32.7Zm3.61,6.69a25.719,25.719,0,0,1,.38,3.81h-4V64.33a12.68,12.68,0,0,0,3.62-.74Zm.38,5.19a25.719,25.719,0,0,1-.38,3.81,12.68,12.68,0,0,0-3.61-.74V68.78Zm-.67,5.14c-.75,2.92-2,4.85-3.32,5.36V73.22a11.23,11.23,0,0,1,3.32.7Zm-12.73,1.4a11.25,11.25,0,0,1-2.58-6.54H61a25.53,25.53,0,0,0,.47,4.35,12.45,12.45,0,0,0-3.13,2.23ZM55.76,67.4a11.25,11.25,0,0,1,2.58-6.54,12.45,12.45,0,0,0,3.15,2.19A25.53,25.53,0,0,0,61,67.4Zm20-6.54a11.31,11.31,0,0,1,2.57,6.54H73.11a25.53,25.53,0,0,0-.47-4.35,12.68,12.68,0,0,0,3.16-2.19Zm2.57,7.92a11.25,11.25,0,0,1-2.58,6.54,12.45,12.45,0,0,0-3.15-2.19,25.531,25.531,0,0,0,.47-4.35Z" transform="translate(-40.71 -42.23)" fill="#fff"/>
+      </g>
+      <g id="Grupo_24909" data-name="Grupo 24909" transform="translate(860 2181)">
+        <g id="Grupo_24908" data-name="Grupo 24908" clip-path="url(#clip-path-5)">
+          <rect id="Rectángulo_25468" data-name="Rectángulo 25468" width="116.5" height="65.092" transform="translate(0 0)" fill="#8f4788"/>
+        </g>
+      </g>
+      <text id="Organización_de_sistemas._Énfasis_en_valor_agregado_de_materiales._Oportunidades_de_compartir_y_colaborar._" data-name="Organización de sistemas.
+Énfasis en valor agregado de materiales.
+Oportunidades de compartir y colaborar.
+" transform="translate(990 2157.5)" fill="#00223d" font-size="18" font-family="CerebriSans-Regular, Cerebri Sans"><tspan x="0" y="17">Organización de sistemas.</tspan><tspan x="0" y="41">Énfasis en valor agregado de </tspan><tspan x="0" y="65">materiales.</tspan><tspan x="0" y="89">Oportunidades de compartir y </tspan><tspan x="0" y="113">colaborar.</tspan><tspan x="0" y="137"></tspan></text>
+      <rect id="Rectángulo_25469" data-name="Rectángulo 25469" width="319" height="59" rx="8" transform="translate(927 2341)" fill="#3894ba"/>
+      <text id="Colombia_el_primer_país_en_América_Latina_y_el_Caribe_en_lanzar_ENEC." data-name="Colombia el primer país en América Latina y el Caribe en lanzar ENEC." transform="translate(943 2347.5)" fill="#fff" font-size="18" font-family="CerebriSans-Regular, Cerebri Sans"><tspan x="0" y="17">Colombia el primer país en América </tspan><tspan x="0" y="41">Latina y el Caribe en lanzar ENEC.</tspan></text>
+    </g>
+  </g>
+</svg>

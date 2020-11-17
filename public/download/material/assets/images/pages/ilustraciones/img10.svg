@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="574.215" height="335.911" viewBox="0 0 574.215 335.911">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#df7f50"/>
+      <stop offset="0.09" stop-color="#db755f"/>
+      <stop offset="0.24" stop-color="#d76973"/>
+      <stop offset="0.41" stop-color="#d36081"/>
+      <stop offset="0.63" stop-color="#d25b8a"/>
+      <stop offset="0.99" stop-color="#d1598c"/>
+      <stop offset="1" stop-color="#d1598c"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2a8bbd"/>
+      <stop offset="1" stop-color="#5cacb3"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e6b42a"/>
+      <stop offset="1" stop-color="#5cacb3"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#449f6b"/>
+      <stop offset="1" stop-color="#2092ab"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#df7f50"/>
+      <stop offset="0" stop-color="#c67e51"/>
+      <stop offset="0" stop-color="#5a7b56"/>
+      <stop offset="0.05" stop-color="#6b765e"/>
+      <stop offset="0.15" stop-color="#8a6d6c"/>
+      <stop offset="0.26" stop-color="#a46678"/>
+      <stop offset="0.39" stop-color="#b86081"/>
+      <stop offset="0.53" stop-color="#c65c87"/>
+      <stop offset="0.7" stop-color="#cf5a8b"/>
+      <stop offset="0.99" stop-color="#d1598c"/>
+      <stop offset="1" stop-color="#9306ce"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_25673" data-name="Grupo 25673" transform="translate(-412 -8846.5)">
+    <text id="Otros" transform="translate(662 8881.5)" fill="#fff" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Otros</tspan></text>
+    <text id="_3_" data-name="3%" transform="translate(663 8846.5)" fill="#fff" font-size="28" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="27">3%</tspan></text>
+    <g id="Capa_2" data-name="Capa 2" transform="translate(412 8850.999)">
+      <g id="Capa_3" data-name="Capa 3">
+        <path id="Trazado_64896" data-name="Trazado 64896" d="M287.44,108.11,1.69,153.41s32.62,110,263.25,120.07c189.94,8.34,267.75-68,267.75-68Z" fill="url(#linear-gradient)"/>
+        <path id="Trazado_64897" data-name="Trazado 64897" d="M285.19,110.92,286.59.67S394.71-3,487.31,39.11c45.75,20.81,145.13,84,44.25,167.43Z" transform="translate(-1)" fill="url(#linear-gradient-2)"/>
+        <path id="Trazado_64898" data-name="Trazado 64898" d="M289.12,111.23,104.62,31.35S3.37,60.6,0,151.73C1.12,155.1,289.12,111.23,289.12,111.23Z" transform="translate(0 1)" fill="url(#linear-gradient-3)"/>
+        <path id="Trazado_64899" data-name="Trazado 64899" d="M289.12,111.23l-47-108.31s-72.25,2.87-137.5,28.43Z" transform="translate(-1 1)" fill="url(#linear-gradient-4)"/>
+        <path id="Trazado_64900" data-name="Trazado 64900" d="M289.334.673s-24.2-2.821-46.614,3.1l47.4,105.948Z" transform="matrix(1, 0.017, -0.017, 1, -2.002, -4.053)" fill="#606060"/>
+        <path id="Trazado_64901" data-name="Trazado 64901" d="M0,151.73l5.62,62.13S56.25,332.82,279,336.2c1.69.84,189,2.53,248.06-68.34.85-1.69,4.5-61.32,4.5-61.32s-60.19,63.85-264.37,53.72C263,258.57,55.12,258.35,0,151.73Z" transform="translate(0 -5)" fill="url(#linear-gradient-5)"/>
+        <path id="Trazado_64902" data-name="Trazado 64902" d="M531.56,206.54l-4.5,61.32s26.16-21.94,42.19-54c0-4.22,8.44-49.78,7.59-77.63C576,135.39,567.56,182.73,531.56,206.54Z" transform="translate(-3 -2)" fill="url(#linear-gradient-2)"/>
+      </g>
+    </g>
+    <text id="Papel_y_cartón_" data-name="Papel y cartón " transform="translate(787 8907.5)" fill="#fff" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Papel y cartón </tspan></text>
+    <text id="_36_" data-name="36%" transform="translate(823 8932.5)" fill="#fff" font-size="28" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="27">36%</tspan></text>
+    <text id="Plásticos" transform="translate(651 9019.5)" fill="#fff" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Plásticos</tspan></text>
+    <text id="_34_" data-name="34%" transform="translate(660 9047.5)" fill="#fff" font-size="28" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="27">34%</tspan></text>
+    <text id="Metales_" data-name="Metales " transform="translate(512 8946.5)" fill="#fff" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Metales </tspan></text>
+    <text id="otros-2" data-name="otros" transform="translate(664 8876.5)" fill="#fff" font-size="16" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="16">otros</tspan></text>
+    <text id="_17_" data-name="17%" transform="translate(489 8917.5)" fill="#fff" font-size="28" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="27">17%</tspan></text>
+    <text id="Vidrio" transform="translate(586 8900.5)" fill="#fff" font-size="18" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="17">Vidrio</tspan></text>
+    <text id="_10_" data-name="10%" transform="translate(588 8863.5)" fill="#fff" font-size="28" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="27">10%</tspan></text>
+    <text id="_3_2" data-name="3%" transform="translate(663 8846.5)" fill="#fff" font-size="28" font-family="CerebriSans-Bold, Cerebri Sans" font-weight="700"><tspan x="0" y="27">3%</tspan></text>
+  </g>
+</svg>
